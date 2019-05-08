@@ -1,0 +1,37 @@
+ul
+{
+	list-style-type: none;
+	font-family: 'Roboto', sans-serif;
+
+}
+li
+{
+	display: inline;
+}
+.left
+{
+	margin-top: 29px;
+	margin-left: 5%;
+	float: left;
+	font-size: 25px;
+	border: #4CB3B3 solid 3px;
+	padding: 25px;
+	border-radius: 30px;
+}
+.right
+{
+	float: left;
+	font-size: 18px;
+	padding: 5%;
+	text-decoration: underline;
+
+}
+.hello
+{
+margin-left:10%;
+
+}
+.zone
+{
+	border: black solid 2px;
+}
